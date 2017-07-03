@@ -1,2 +1,2 @@
-# AuthenticationUsingPassport
-Authenticate users with social platform and custom signIn and signUp using passport.js
+# PassportAuthenticaton
+Facebook gmail and local strategy using passport.js
